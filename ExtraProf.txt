@@ -1,0 +1,15 @@
+ML:
+1. data collection
+2. data cleaning
+3. explore data
+4. hypothesis testing
+5. model fitting
+6. evaluation
+7. testing
+8. inference and deployment
+
+Q. python list vs array
+Q. precision system
+Q. random number generation
+Q. Central Tendency
+Q. standard deviation,variance
